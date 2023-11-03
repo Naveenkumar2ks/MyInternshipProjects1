@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <meta name="viewport" content="with=device-width,initial-scale=1.0">
+    <head>
+        <title>MVR ENGINEERINGS</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap"rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    </head>
+    <body>
+        <section class="sub-header">
+            <nav>
+                <a href="index.html"><img src="logo.png"></a>
+                <div class="nav-links" id="navlinks">
+                    <i class="fa fa-times" onclick="hidemenu()"></i>
+                    <ul>
+                        <li><a href="week-3.html">HOME</a></li>
+                        <li><a href="servicesandproducts.html">SERVICES/PRODUCTS</a></li>
+                        <li><a href="aboutus.html">ABOUT US</a></li>
+                        <li><a href="contactus.html">CONTACT US</a></li>
+                    </ul>
+                </div>
+                <i class="fa fa-bars" onclick="showmenu()"></i>
+            </nav>
+            <h1>About Us</h1>
+            
+        </section>
+
+        <section class="about-us">
+            <div class="row">
+                <div class="about-col">
+                    <h1>Our Story</h1>
+                    <p>Founded on the principles of quality, integrity, and customer satisfaction, MVR Engineers has been a trusted name for 15 years. Our journey began with a clear mission: to provide innovative solutions, unmatched craftsmanship, and exceptional service to clients across various industries.</p>
+                    <h1>Our Vision</h1>
+                    <p>Our vision is to lead, innovate, and shape the future of our Sector. We constantly push boundaries and seek new horizons, setting industry trends, and redefining standards. We aspire to be the company known for pioneering solutions and for being a beacon of excellence.</p>
+                    <a href="" class="nav-button red-btn">EXPLORE NOW</a>
+                </div>
+                <div class="about-col">
+                    <img src="cantactus2.jpeg">
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+
+
+        <section class="footer">
+            <h4>ABOUT US</h4>
+            <p>We MVR Engineers, a leading provider of precision machining solutions. With a strong commitment to excellence and innovation, we specialize in a wide range of machining processes, including drilling, milling, and grinding.At the heart of our operations is a state-of-the-art facility equipped with the latest cutting-edge technology and a highly skilled team of professionals. This combination enables us to deliver top-quality, precision-engineered components and parts for a diverse range of industries.</p>
+            <div class="icons">
+                <i class="fa fa-facebook"></i>
+                <i class="fa fa-twitter"></i>
+                <i class="fa fa-instagram"></i>
+                <i class="fa fa-linkedin"></i>
+            </div>
+            <q><i class="fa fa-copyright"></i> MVR Engineers</q>
+            
+        </section>
+
+    </body>
+</html>
