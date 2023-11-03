@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+    <meta name="viewport" content="with=device-width,initial-scale=1.0">
+    <head>
+        <title>MVR ENGINEERINGS</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap"rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    </head>
+    <body>
+        <section class="header">
+            <nav>
+                <a href="index.html"><img src="logo.png"></a>
+                <div class="nav-links" id="navlinks">
+                    <i class="fa fa-times" onclick="hidemenu()"></i>
+                    <ul>
+                        <li><a href="week-3.html">HOME</a></li>
+                        <li><a href="servicesandproducts.html">SERVICES/PRODUCTS</a></li>
+                        <li><a href="aboutus.html">ABOUT US</a></li>
+                        <li><a href="contactus.html">CONTACT US</a></li>
+                    </ul>
+                </div>
+                <i class="fa fa-bars" onclick="showmenu()"></i>
+
+            </nav>
+        <div class="text-box">
+            <h1>Precision is our Passion,</h1>
+            <h1>Perfection is our promise...</h1>
+            <p>At MVR Engineers, quality is not just a promise; it's our daily commitment. We believe in<br> above and beyond to ensure our clients receive the best in our works. With an <br>unwavering focus on precision, we take pride in delivering results that exceed expectations.</p>
+            
+            <a href="" class="nav-button">Visit Us To Know More..</a>
+
+        </div>
+            
+        </section>
+
+      
+        
+
+
+
+
+
+        <section class="operation">
+            <h1>Operation we Perform</h1>
+            <p>No matter the industry, whether aerospace, automotive,<br> medical, or any other sector, we have the <br>expertise and resources to deliver the highest<br> standards in machining...</p>
+
+            <div class="row">
+                <div class="operation-col">
+                    <h3>Milling</h3>
+                    <p>Our milling services offer versatile solutions for shaping and contouring materials. We can produce complex and highly detailed components, making us the go-to choice for clients seeking intricate designs and smooth finishes.</p>
+                </div>
+                <div class="operation-col">
+                    <h3>Drilling</h3>
+                    <p>Our precision drilling processes allow us to create holes of varying sizes and depths with unmatched accuracy. Whether you need single holes or intricate patterns, our drilling capabilities meet the most demanding specifications.</p>
+                </div>
+                <div class="operation-col">
+                    <h3>Grinding</h3>
+                    <p>When it comes to achieving the tightest tolerances and impeccable surface finishes, our grinding expertise is second to none. We provide solutions for a wide array of materials, ensuring exceptional quality in every project.</p>
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+        <section class="industry">
+            <h1>CNC machine from our Company</h1>
+
+            <div class="row">
+                <div class="industry-col">
+                    <img src="CNC-Milling-Machine-XH7145A-XHS7145A-.jpg" alt="">
+                    <div class="layer">
+                        <h3>CNC-Milling-Machine-<br>XH7145A-XHS7145A-</h3>
+                    </div>
+                </div>
+                <div class="industry-col">
+                    <img src="Z5140 CNC Drilling Machine.jpeg" alt="">
+                    <div class="layer">
+                        <h3>Z5140<br>CNC Drilling Machine</h3>
+                    </div>
+                </div>
+                <div class="industry-col">
+                    <img src="2000 ANCA TGX-CNC tool & Cutter Grinder.jpeg" alt="">
+                    <div class="layer">
+                        <h3>2000 ANCA TGX-<br>CNC tool & Cutter Grinder</h3>
+                    </div>
+                </div>
+            
+            </div>
+        </section>
+
+
+
+
+
+        <section class="serve">
+            <h1>Major industries we serve</h1>
+            <div class="row">
+                <div class="serve-col">
+                    <img src="aerospace.jpg" >
+                    <h3>Aerospace Products</h3>
+                </div>
+                <div class="serve-col">
+                    <img src="medical.jpeg" >
+                    <h3>Medical Products</h3>
+                </div>
+                <div class="serve-col">
+                    <img src="automotive engineering.jpg" >
+                    <h3>Automotive Products</h3>
+                </div>
+            </div>
+
+        </section>
+
+
+
+
+
+        <section class="testimonials">
+            <h1>What our customer Says</h1>
+            <p>At MVR Engineers,we believe that the best way to showcase our  <br> commitment to excellence and the quality of our services <br>is by letting our clients do the talking.</p>
+            <div class="row">
+                <div class="testimonials-col">
+                    <img src="T-1.jpeg">
+                    <div>
+                        <p>I've been a customer of MVR Engineers <br>
+                           for the past two years, and I can <br>
+                           confidently  say that this company <br>
+                           has exceeded my expectations in every<br> 
+                           way.From the very first interaction,I<br>
+                           was impressed by their professionalism<br> 
+                           and commitment to customer satisfaction.</p>
+                         <h3>Naveen Kumar S</h3>
+                         <i class="fa fa-star"></i>
+                         <i class="fa fa-star"></i>
+                         <i class="fa fa-star"></i>
+                         <i class="fa fa-star"></i>
+                         <i class="fa fa-star-half-o"></i>
+
+                    </div>
+                </div>
+                <div class="testimonials-col">
+                    <img src="T-2.jpg">
+                    <div>
+                        <p>As a customer for the past 7 years, I've<br> 
+                            come to rely on their expertise and <br>
+                            exceptional service.The moment I<br> 
+                            engaged with MVR Engineers, their<br>
+                            team took the time to understand my<br> 
+                            unique requirements and provided solutions.</p>
+                        <h3>Gopal P</h3>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-o"></i>
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+        
+
+        <section class="call">
+            <h1>Click for any job order</h1>
+            <a href="" class="nav-button">CONTACT US</a>
+        </section>
+
+
+
+
+
+
+
+        <script>
+            var navlinks= document.getElementById("navlinks");
+            function showmenu(){
+                navlinks.style.right="0px";
+            }
+            function hidemenu(){
+                navlinks.style.right="-200px"
+            }
+        </script>
+
+        <section class="footer">
+            <h4>ABOUT US</h4>
+            <p>We MVR Engineers, a leading provider of precision machining solutions. With a strong commitment to excellence and innovation, we specialize in a wide range of machining processes, including drilling, milling, and grinding.At the heart of our operations is a state-of-the-art facility equipped with the latest cutting-edge technology and a highly skilled team of professionals. This combination enables us to deliver top-quality, precision-engineered components and parts for a diverse range of industries.</p>
+            <div class="icons">
+                <i class="fa fa-facebook"></i>
+                <i class="fa fa-twitter"></i>
+                <i class="fa fa-instagram"></i>
+                <i class="fa fa-linkedin"></i>
+            </div>
+            <q><i class="fa fa-copyright"></i> MVR Engineers</q>
+            
+        </section>
+
+    </body>
+</html>
